@@ -29,6 +29,12 @@ websites:
       img: azendoo.png
       tfa: No
       twitter: Azendoo
+ 
+    - name: Candy Warehouse
+    url: http://www.candywarehouse.com/
+    img: candy-warehouse-1382000942.jpg
+    tfa: No
+    twitter: candywarehouse
 
     - name: Cisco Meraki
       url: https://meraki.cisco.com/
